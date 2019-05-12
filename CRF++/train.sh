@@ -1,0 +1,1 @@
+nohup crf_learn -f 3 -p 4 -c 4.0 data/template data/train.data model/pos_model > train.rst 2>&1 &

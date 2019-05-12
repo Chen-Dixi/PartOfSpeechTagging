@@ -1,0 +1,1 @@
+crf_test -m model/model data/test.data > test_result.rst
